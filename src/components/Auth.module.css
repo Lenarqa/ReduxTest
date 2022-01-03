@@ -1,0 +1,36 @@
+.form {
+    background-color: #f2eef8;
+    border-radius: 10px;
+    padding: 1rem 3rem 3rem 3rem;
+    margin: 2rem auto;
+    max-width: 30rem;
+    text-align: center;
+}
+
+.inputWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding: 1rem; */
+}
+
+.inputWrapper label {
+    text-transform: uppercase;
+    margin: 1rem 0;
+}
+
+.inputWrapper input {
+    border-radius: 2px;
+    padding: 0.2rem;
+    width: 100%;
+}
+
+button {
+    color: #fff;
+    padding: 0.7rem 3rem;
+    background-color: #350071;
+    border-radius: 10px;
+    border: none;
+    margin: 1rem;
+    cursor: pointer;
+}

@@ -1,0 +1,33 @@
+.cart {
+  padding: 1rem 3rem;
+  background-color: #fff;
+  margin: 2rem auto;
+  max-width: 40rem;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.header {
+  text-transform: uppercase;
+  color: #49474b;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.counter {
+  margin: 2rem auto;
+  font-size: 2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #31016c;
+}
+
+.cart button {
+    color: #fff;
+    padding: 0.7rem 3rem;
+    background-color: #350071;
+    border-radius: 10px;
+    border: none;
+    margin: 1rem;
+    cursor: pointer;
+}
